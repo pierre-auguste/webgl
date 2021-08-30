@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+canvas {
+}
+video {
+    display: none;
+}
+table {
+    margin: 10px auto 20px auto;
+}
+th {
+    text-align: right;
+}
+ul {
+    margin-top: 50px;
+    list-style-type: none;
+}
+li {
+    margin-top: 20px;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+#glcanvas {
+    display: block;
+    width: 640px;
+    height: 480px;
+    border: 1px solid grey;
+    background-color: black;
+    margin: 50px auto;
+    
+}
+.gray {
+    color: #333;
+}
